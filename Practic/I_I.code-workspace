@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"editor.codeActionWidget.includeNearbyQuickFixes": true,
+		"editor.codeActionWidget.showHeaders": true,
+		"editor.codeLens": true
+	}
+}
